@@ -1,3 +1,5 @@
+
+git bash 
 git clone url
 cd {folder created}
 git add .
