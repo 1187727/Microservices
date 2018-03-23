@@ -10,7 +10,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 @EnableWebSecurity
 public class SecurityConfig  extends WebSecurityConfigurerAdapter{
 	//Generating Encrypted Password
-	/*public static void main() {
+	/*public static void main(String args[]) {
 		System.out.println(new BCryptPasswordEncoder().encode("admin"));
 	}*/
 
